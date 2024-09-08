@@ -1,0 +1,3 @@
+Process 1 received message: Message 1
+Forwarding message Message 1 to process 2
+Forwarding message Message 1 to process 1

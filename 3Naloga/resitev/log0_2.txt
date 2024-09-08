@@ -1,0 +1,2 @@
+Forwarding message Message 1 to process 1
+Forwarding message Message 1 to process 0
